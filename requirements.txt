@@ -1,0 +1,10 @@
+numpy
+matplotlib
+notebook
+ipykernel
+transformers
+
+# developer tools
+jupyterlab
+black
+pre-commit
